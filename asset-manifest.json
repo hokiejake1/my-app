@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/my-app/static/js/main.c52684ed.chunk.js",
+    "main.js.map": "/my-app/static/js/main.c52684ed.chunk.js.map",
+    "runtime~main.js": "/my-app/static/js/runtime~main.e92001b1.js",
+    "runtime~main.js.map": "/my-app/static/js/runtime~main.e92001b1.js.map",
+    "static/js/2.a71b1702.chunk.js": "/my-app/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/my-app/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/my-app/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/my-app/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.9f27e2a755949c379e94f720c9eb0af6.js": "/my-app/precache-manifest.9f27e2a755949c379e94f720c9eb0af6.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/my-app/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/my-app/static/media/logo.06e73328.svg"
+  }
+}
